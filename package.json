@@ -1,0 +1,17 @@
+{
+  "name": "nbean",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony --use_strict index.js"
+  },
+  "author": "Qiaosen Huang",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.5.4",
+    "extend": "^2.0.1",
+    "redis": "^0.12.1"
+  }
+}
